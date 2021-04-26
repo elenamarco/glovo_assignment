@@ -1,0 +1,19 @@
+{
+  "name": "glovo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elenamarco/glovo_test.git"
+  },
+  "author": "Elena Marco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elenamarco/glovo_test/issues"
+  },
+  "homepage": "https://github.com/elenamarco/glovo_test#readme"
+}
